@@ -1,7 +1,8 @@
 """A module that adds numbers together"""
 
+
 def add_num(number1, number2):
-    """ A function that adds two numbers together
+    """A function that adds two numbers together
 
     Args:
         number1 : int
