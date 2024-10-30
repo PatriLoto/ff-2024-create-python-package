@@ -1,4 +1,4 @@
-"""Test  that our add numbers module behaves as expected """
+"""Test that our add numbers module behaves as expected """
 
 from myfirstpackage.add_number import add_num
 
